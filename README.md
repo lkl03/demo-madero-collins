@@ -1,2 +1,7 @@
-# demo-madero-collins
-Demo web para Madero Collins — diseñada por eterlab.
+# Madero Collins
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
